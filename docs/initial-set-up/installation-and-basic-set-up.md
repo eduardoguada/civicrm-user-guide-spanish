@@ -1,4 +1,4 @@
-Installation and basic set-up
+Instalación y configuración básica
 =============================
 
 Before reading further, please be aware that much of the information
